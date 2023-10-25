@@ -22,3 +22,22 @@ main img {
   border: 1px solid chartreuse;
   border-radius: 20px;
 }
+.list {
+  display: flex;
+}
+.show {
+  width: 400px;
+  height: auto;
+  margin-top: 150px;
+  border-radius: 20px;
+}
+
+#bmw {
+  margin-left: 200px;
+  border: 1px solid blue;
+  height: 252px;
+}
+#porsche {
+  margin-left: 200px;
+  border: 1px solid salmon;
+}
